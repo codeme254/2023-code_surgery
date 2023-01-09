@@ -17,4 +17,6 @@ chmod a+x bruteforce.py
 chmod a+x optimized_solution1.py
 chmod a+x optimized_solution2.py
 echo "#!/usr/bin/env python3" > bruteforce.py
+echo "#!/usr/bin/env python3" > optimized_solution1.py
+echo "#!/usr/bin/env python3" > optimized_solution2.py
 fi
