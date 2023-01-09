@@ -8,9 +8,6 @@ mkdir $1
 cd $1
 
 echo ""
-echo "==================="
-echo"Generating new files"
-
 
 touch problem.txt
 touch bruteforce.py
